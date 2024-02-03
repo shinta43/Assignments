@@ -2,4 +2,5 @@
 
 COURSERA COURSE 3HTML, CSS AND JAVASCRIPT FOR WEB DEVELOPERS
 
-#OUTPUT [CLICK HERE]
+#OUTPUT
+[CLICK HERE]https://shinta43.github.io/Assignments/module5-solution/
